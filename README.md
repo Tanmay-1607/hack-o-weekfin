@@ -1,6 +1,9 @@
 <img width="1732" height="1121" alt="image" src="https://github.com/user-attachments/assets/bbeca043-92ac-4b62-906b-f757cdb07bab" />
+
 Institute faq bot
+
 <img width="1687" height="974" alt="image" src="https://github.com/user-attachments/assets/4613342f-b3eb-404d-88aa-e06d317ed1f7" />
+
 Entity extraction
 
 
