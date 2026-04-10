@@ -1,0 +1,5 @@
+{
+  "name": "TIOT FAQ Bot",
+  "description": "A smart assistant for TIOT students to answer questions about admissions, courses, and campus life.",
+  "requestFramePermissions": []
+}
