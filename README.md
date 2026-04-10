@@ -1,12 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<img width="1732" height="1121" alt="image" src="https://github.com/user-attachments/assets/bbeca043-92ac-4b62-906b-f757cdb07bab" />
+Institute faq bot
+<img width="1687" height="974" alt="image" src="https://github.com/user-attachments/assets/4613342f-b3eb-404d-88aa-e06d317ed1f7" />
+Entity extraction
 
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/2112b1bf-aa05-41a2-8cf3-777566a72754
 
 ## Run Locally
 
