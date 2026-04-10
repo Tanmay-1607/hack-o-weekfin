@@ -1,5 +1,5 @@
 {
-  "name": "TIOT FAQ Bot",
-  "description": "A smart assistant for TIOT students to answer questions about admissions, courses, and campus life.",
+  "name": "EduSchedule AI",
+  "description": "AI-powered calendar extraction and schedule assistant. Upload your course schedule or calendar to extract dates, courses, and events, and chat with your schedule.",
   "requestFramePermissions": []
 }
